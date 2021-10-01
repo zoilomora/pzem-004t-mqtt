@@ -1,4 +1,12 @@
+# Windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# PlatformIO
 .pio
 
+# Visual Studio Code
 /.vscode/
 /.history/
